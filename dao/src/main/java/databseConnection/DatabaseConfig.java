@@ -12,7 +12,7 @@ public class DatabaseConfig {
 
     public static String USERNAME = "postgres";
 
-    public static String PASSWORD = "artemarmt2001";
+    public static String PASSWORD = "*************";
 
     public static Connection getConnection() throws SQLException {
         Connection connection;
